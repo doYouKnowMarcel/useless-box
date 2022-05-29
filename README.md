@@ -6,7 +6,9 @@ Hier findest du alles, was du für deine Useless Box brauchst.
 in dem Verzeichnis '/Beispiele' findest du jede Menge Beispiele
 
 ### MusicBuzzer
-in dem Verzeichnis '/MusicBuzzer' findest du die Bibliothek zum Einbinden in deinen Programmcode für die Buzzer-Funkitonalität mit ein paar vordefinierten Songs.
+in dem Verzeichnis '/MusicBuzzer' findest du die Bibliothek zum Einbinden in deinen Programmcode für die Buzzer-Funkitonalität mit ein paar vordefinierten Songs:
+
+Beispiele/SinnloseBox01     Standardinstallation auf der Sinnlosen Box
 
 ### Aufbauanleitung
 Eine Aufbauanleitung ist deinem Bausatz als Ausdruck beigelegt.
