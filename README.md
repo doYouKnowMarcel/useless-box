@@ -8,6 +8,7 @@ in dem Verzeichnis '/Beispiele' findest du jede Menge Beispiele
 ### Treiber
 in dem Verzeichnis '/Treiber' ist der Treiber für den Arduino Nano abgelegt.
 Diesen benötigst du, um dein Programm auf den Arduino übertragen zu können.
+Dafür die Datei CH341SER.ZIP herunterladen, entpacken und die Datei Setup.exe ausführen (Doppelklicken) und den Treiber installieren.
 
 Quellen: 
 - https://www.makershop.de/ch340-341-usb-installieren/
